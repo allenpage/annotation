@@ -19,3 +19,5 @@ Todo
 8. @Service
    1. 컴포넌트만 등록하면 안될까?
 9. @SpringBootApplication
+
+2
